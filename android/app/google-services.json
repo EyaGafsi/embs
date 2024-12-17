@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945232819184",
+    "project_id": "embs-77c59",
+    "storage_bucket": "embs-77c59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945232819184:android:cbcdd24035e80d81f66335",
+        "android_client_info": {
+          "package_name": "com.example.embs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQok4GcTHbk0VK33wkLNctQfQJbCJRsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945232819184:android:104415426a445ac6f66335",
+        "android_client_info": {
+          "package_name": "com.example.tounsicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQok4GcTHbk0VK33wkLNctQfQJbCJRsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
