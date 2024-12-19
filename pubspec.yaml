@@ -61,17 +61,19 @@ flutter:
   assets:
     - images/meditation.png
     - images/TounsiCareLogo.png
-  #  - images/quizimage.png
+    - images/quizimage.png
     - images/sad.png
+    - images/bot.png
     - images/happy.png
-   # - images/doctor1.jpg
-   # - images/doctor2.jpg
-   # - images/doctor3.jpg
-    #- images/doctor4.jpg
-   # - images/doctor5.jpg
-  #  - images/doctor6.jpg
-  #  - images/doctor7.jpg
+    - images/doctor1.jpg
+    - images/doctor2.jpg
+    - images/doctor3.jpg
+    - images/doctor4.jpg
+    - images/doctor5.jpg
+    - images/doctor6.jpg
+    - images/doctor7.jpg
    
+    
     
 
   # The following line ensures that the Material Icons font is
